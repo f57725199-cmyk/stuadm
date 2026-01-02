@@ -1,0 +1,35 @@
+
+> students@0.0.0 dev
+> vite
+
+
+  VITE v6.4.1  ready in 760 ms
+
+  ➜  Local:   http://localhost:5000/
+  ➜  Network: http://192.168.0.2:5000/
+4:07:39 AM [vite] (client) hmr update /App.tsx, /components/StudentDashboard.tsx, /components/AdminDashboard.tsx, /components/Auth.tsx, /components/RedeemSection.tsx, /components/VideoPlaylistView.tsx, /components/PdfView.tsx, /components/McqView.tsx, /components/HistoryPage.tsx, /components/UniversalChat.tsx, /components/UniversalChatV2.tsx
+4:07:48 AM [vite] (client) hmr update /components/Auth.tsx
+4:27:23 AM [vite] (client) hmr update /App.tsx, /components/StudentDashboard.tsx, /components/AdminDashboard.tsx, /components/Auth.tsx, /components/RedeemSection.tsx, /components/VideoPlaylistView.tsx, /components/PdfView.tsx, /components/McqView.tsx, /components/HistoryPage.tsx, /components/UniversalChat.tsx, /components/UniversalChatV2.tsx
+4:27:46 AM [vite] (client) hmr update /App.tsx
+4:27:51 AM [vite] (client) hmr update /App.tsx
+4:28:28 AM [vite] (client) hmr update /components/Auth.tsx
+4:28:32 AM [vite] (client) hmr update /components/Auth.tsx
+4:29:20 AM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:29:24 AM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:29:42 AM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:29:48 AM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:30:16 AM [vite] (client) hmr update /App.tsx
+4:30:21 AM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:30:47 AM [vite] (client) hmr update /components/ChapterSelection.tsx
+4:31:15 AM [vite] (client) hmr update /components/LessonView.tsx
+4:31:51 AM [vite] (client) hmr update /components/SubjectSelection.tsx
+4:32:14 AM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:34:47 AM [vite] (client) hmr update /components/VideoPlaylistView.tsx
+4:35:33 AM [vite] (client) hmr update /components/PdfView.tsx
+4:36:12 AM [vite] (client) hmr update /components/McqView.tsx
+6:09:49 AM [vite] (client) hmr update /App.tsx, /components/StudentDashboard.tsx, /components/AdminDashboard.tsx, /components/Auth.tsx, /components/RedeemSection.tsx, /components/VideoPlaylistView.tsx, /components/PdfView.tsx, /components/McqView.tsx, /components/HistoryPage.tsx, /components/UniversalChat.tsx, /components/UniversalChatV2.tsx
+6:10:01 AM [vite] (client) hmr update /components/Auth.tsx
+6:10:07 AM [vite] (client) hmr update /components/Auth.tsx
+6:16:28 AM [vite] (client) hmr update /components/StudentDashboard.tsx
+6:17:41 AM [vite] (client) hmr update /App.tsx
+6:18:07 AM [vite] (client) hmr update /App.tsx, /components/StudentDashboard.tsx, /components/AdminDashboard.tsx, /components/Auth.tsx, /components/RedeemSection.tsx, /components/VideoPlaylistView.tsx, /components/PdfView.tsx, /components/McqView.tsx, /components/HistoryPage.tsx, /components/UniversalChat.tsx, /components/UniversalChatV2.tsx
